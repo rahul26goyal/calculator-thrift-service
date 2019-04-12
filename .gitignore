@@ -10,9 +10,11 @@
 /test/version_tmp/
 /tmp/
 
+
 # Used by dotenv library to load environment variables.
 # .env
-
+gen-rb/
+multiplication-thrift-service/gen-rb
 ## Specific to RubyMotion:
 .dat*
 .repl_history
